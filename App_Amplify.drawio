@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T11:20:49.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Zt2xNz83CdJUpFU4R1O7" version="22.0.8" type="github">
-  <diagram name="oci-azure-multicloud-dr" id="_Cxg9tiiqkHU0Srhlynt">
-    <mxGraphModel dx="1467" dy="860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="1" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-11-06T11:22:00.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Xe68VTSzwhQlPJcSDe43" version="22.0.8" type="github">
+  <diagram name="AWS Amplify" id="_Cxg9tiiqkHU0Srhlynt">
+    <mxGraphModel dx="1467" dy="945" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFFFFF" math="1" shadow="0">
       <root>
         <UserObject label="" animation="flow 2NThsm7cEVNfBc3vwOci-1&#xa;wait 1000&#xa;show 2NThsm7cEVNfBc3vwOci-1 fade&#xa;wait 1000&#xa;" id="0">
           <mxCell />
